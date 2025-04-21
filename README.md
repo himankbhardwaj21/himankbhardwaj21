@@ -1,4 +1,4 @@
-![logo](https://github.com/himankbhardwaj21/himankbhardwaj21/blob/main/VN20250421_200939.mp4)
+![logo](https://github.com/himankbhardwaj21/himankbhardwaj21/blob/main/VN20250421_200939.gif)
 <h1 align="center">Hi 👋, I'm Himank Bhardwaj</h1>
 <h3 align="center">Pursuing BTech CSE | AI/ML</h3>
 
