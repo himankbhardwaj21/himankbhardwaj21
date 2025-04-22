@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Himank Bhardwaj</h1>
 <h3 align="center">Pursuing BTech CSE | AI/ML</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/be52a483-8537-4ba6-9800-29786f4d870d">
+
 - 📫 Reach me at **himankbhardwaj21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
