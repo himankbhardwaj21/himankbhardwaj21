@@ -14,7 +14,7 @@ Passionate About Building, Learning, and Innovating
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/himankbhardwaj21">
+<a href="https://www.linkedin.com/in/himankbhardwaj/">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a>
 
